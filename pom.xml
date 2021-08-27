@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.jmdm</groupId>
-    <artifactId>TEST_CICLO3_UNAB</artifactId>
+    <artifactId>TEST_CICLO3_UNAB_BACKEND</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>TEST_CICLO3_UNAB</name>
+    <name>TEST_CICLO3_UNAB_BACKEND</name>
     <description>Test Ciclo 3</description>
     <properties>
         <java.version>16</java.version>
